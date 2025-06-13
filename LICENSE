@@ -187,7 +187,7 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright [2025] [Joseph Thornton jr]
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -200,3 +200,40 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+1. Summary of the Original License: Apache License 2.0
+This summary is based on the license used by the safecache project.
+
+License Name: Apache License, Version 2.0
+Core Concept: A comprehensive, business-friendly, and permissive open-source license.
+Permissions Granted:
+A permanent, worldwide, royalty-license to use, modify, and distribute the software.
+Grants the right to sublicense the software.
+Includes an explicit grant of patent rights to protect users from patent lawsuits by contributors.
+Conditions for Use:
+You must provide a copy of the license.
+You must state that you changed the files.
+You must retain all original copyright, patent, and trademark notices.
+You must include the NOTICE file if one is present.
+Author Protections:
+The software is provided "AS IS" with NO WARRANTY.
+The author has a LIMITATION OF LIABILITY protecting them from damages.
+Termination Clause:
+Your patent rights under the license are terminated if you initiate patent litigation against a contributor over the work.
+2. Summary of Your Custom License (for Joseph Thornton)
+This is the template we built based on your specific requirements.
+
+Copyright Holder: Joseph Thornton
+License Name: Custom Permissive License 
+Core Concept: A simple, permissive license with a very strict enforcement mechanism.
+Permissions Granted:
+A permanent, worldwide, royalty-free license to use, modify, and distribute the software.
+(This simpler template does not explicitly mention patent rights).
+Conditions for Use:
+You must provide a copy of the license.
+You must include the original Copyright Notice.
+You must state that you changed the files.
+Author Protections:
+The software is provided "AS IS" with NO WARRANTY.
+The author has a LIMITATION OF LIABILITY protecting them from damages.
+Termination Clause:
+This is the key custom feature. Your rights under the license terminate automatically, immediately, and permanently if you fail to comply with ANY of the license's conditions. Once lost, the rights cannot be reclaimed.
